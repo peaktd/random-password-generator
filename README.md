@@ -1,1 +1,1 @@
-# random-password-generator
+Автор - Кузнецов Никита
